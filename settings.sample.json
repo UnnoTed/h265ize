@@ -25,4 +25,5 @@
     "scale": 720,
     "debug": false,
     "delete": false,
+    "keep-smaller": false,
 }

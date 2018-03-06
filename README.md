@@ -125,6 +125,8 @@ Simply run `npm install h265ize --global` again.
 
 > --version: Show version information
 
+> --keep-smaller: Removes the bigger file after compression.
+
 Run `h265ize --help` for more info.
 
 ### Aspresets
